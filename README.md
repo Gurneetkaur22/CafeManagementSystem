@@ -11,3 +11,4 @@ and JavaScript for interactive and dynamic elements. This trio of technologies f
 of the website's frontend, facilitating a seamless and visually appealing user interface.
 
 |sr no.|Names|Function|deadlines|
+|---|---|----|----|
