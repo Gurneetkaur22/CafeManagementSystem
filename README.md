@@ -13,3 +13,4 @@ of the website's frontend, facilitating a seamless and visually appealing user i
 |sr no.|Names|Function|deadlines|
 |---|---|----|----|
 | 1| Khushpreet| function1| 5-5-24|
+|
