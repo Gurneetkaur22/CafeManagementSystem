@@ -1,6 +1,6 @@
 # CafeManagementSystem
 
-|sr no.|Names|Function|deadlines|
+|sr no.|Names|category|Function|deadlines|
 |---|---|----|----|
-| 1| Khushpreet| function1| 5-5-24|
+| 1| Khushpreet|| 5-5-24|
 |
