@@ -1,13 +1,22 @@
+# CafeManagementSystem
 
-# Project Title
+|sr no.|Names|Role|deadlines|
+|---|---|----|----|
+| 1| Khushpreet| Version Manager| 5-5-24|
+| 2| Gurneet Kaur| Briefing Coordinator| 12-5-24|
+| 3| Khushi Alaria| Error Generator| 15-5-24|
 
-A brief description of what this project does and who it's for
+Description
 
-it is a cafe management website including home,about,category,menu,testimonal,contact and bill generator page
+Welcome to our Cafe Management System! This comprehensive system is designed to streamline the operations of cafes, bistros, and coffee shops by providing robust tools for managing orders, inventory, customers, and more.
 
-## Acknowledgements
+## Features
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Efficient Order Management: Seamlessly create, update, and track orders, ensuring timely service and customer satisfaction.
+
+Inventory Control: Keep a close eye on ingredient levels, manage stock, and receive alerts for low inventory to avoid stockouts.
+
+Customer Relationship Management: Maintain a database of customers, track their preferences, and provide personalized service to enhance their experience.
+
+Insightful Reporting: Generate detailed reports on sales, inventory turnover, popular items, and customer demographics to make informed business decisions.
 
