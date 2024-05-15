@@ -4,7 +4,7 @@
 |---|---|----|----|
 | 1| Khushpreet| Version Manager| 5-5-24|
 | 2| Gurneet Kaur| Briefing Coordinator| 12-5-24|
-| 3| Khushi Alaria| Error Generator| 15-5-24|
+| 3| Khushi Alaria| Tester | 15-5-24|
 
 Description
 
