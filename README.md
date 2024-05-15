@@ -25,9 +25,11 @@ User-Friendly Interface: Intuitive design and easy navigation make it simple for
 Installation
 To get started with the Cafe Management System, follow these steps:
 
-Node.js and npm installed on your machine.
+Visual Studio Code should be installed on your machine.
 MongoDB installed and running locally or accessible via a remote connection.
+
 Contribution
+
 Khushi Alaria(2310092122)
 
 Khushpreet Kaur(231002123)
