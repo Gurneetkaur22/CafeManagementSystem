@@ -1,8 +1,13 @@
-# CafeManagementSystem
-|sr no.|Names|Category|Function|deadlines|
-|---|---|----|----|
-| 1|Khushpreet kaur|Menu page|Showcase the cafe's menu items along with their descriptions, prices, and possibly images.| 10-4-24|
-|2|Gurneet kaur|About Us page|Provide detailed information about the cafe, its history, mission, values, and team members.|20-4-24|
-|3|khushi Alaria|contact Page|Offer various means of contact such as phone numbers, email addresses, and a contact form.|27-4-24|
-|4|
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+it is a cafe management website including home,about,category,menu,testimonal,contact and bill generator page
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
