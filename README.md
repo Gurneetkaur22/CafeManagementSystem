@@ -20,3 +20,17 @@ Customer Relationship Management: Maintain a database of customers, track their 
 
 Insightful Reporting: Generate detailed reports on sales, inventory turnover, popular items, and customer demographics to make informed business decisions.
 
+User-Friendly Interface: Intuitive design and easy navigation make it simple for staff to learn and use the system effectively.
+
+Installation
+To get started with the Cafe Management System, follow these steps:
+
+Node.js and npm installed on your machine.
+MongoDB installed and running locally or accessible via a remote connection.
+Contribution
+Khushi Alaria(2310092122)
+
+Khushpreet Kaur(231002123)
+
+Gurneet Kaur(231002124)
+
