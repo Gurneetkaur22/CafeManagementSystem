@@ -1,0 +1,36 @@
+import sqlite3
+
+# Connect to SQLite database
+conn = sqlite3.connect('cafe.db')
+c = conn.cursor()
+
+# Create tables
+c.execute('''CREATE TABLE IF NOT EXISTS Menu
+             (id INTEGER PRIMARY KEY, name TEXT, description TEXT, price REAL, available INTEGER)''')
+
+c.execute('''CREATE TABLE IF NOT EXISTS Orders
+             (id INTEGER PRIMARY KEY, items TEXT, total REAL, status TEXT)''')
+
+# Add a menu item
+def add_menu_item(name, description, price, available):
+    c.execute("INSERT INTO Menu (name, description, price, available) VALUES (?, ?, ?, ?)", (name, description, price, available))
+    conn.commit()
+
+# Place an order
+def place_order(items, total, status):
+    c.execute("INSERT INTO Orders (items, total, status) VALUES (?, ?, ?)", (items, total, status))
+    conn.commit()
+
+# Retrieve menu items
+def get_menu():
+    c.execute("SELECT * FROM Menu")
+    return c.fetchall()
+
+# Example usage
+add_menu_item("Coffee", "Freshly brewed coffee", 2.50, 1)
+add_menu_item("Sandwich", "Grilled chicken sandwich", 5.50, 1)
+
+place_order("Coffee, Sandwich", 8.00, "Pending")
+
+# Close database connection
+conn.close()
