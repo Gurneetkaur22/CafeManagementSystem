@@ -1,9 +1,6 @@
 # CafeManagementSystem
 
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Restaurant-Management-System.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Restaurant-Management-System/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Restaurant-Management-System/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 |sr no.|Names|Role|deadlines|
@@ -12,7 +9,7 @@
 | 2| Gurneet Kaur|Developer| 12-5-24|
 | 3| Khushi Alaria| Tester | 15-5-24|
 
-Description
+## Description
 
 Welcome to our Cafe Management System! This comprehensive system is designed to streamline the operations of cafes, bistros, and coffee shops by providing robust tools for managing orders, inventory, customers, and more.
 
@@ -27,6 +24,16 @@ Customer Relationship Management: Maintain a database of customers, track their 
 Insightful Reporting: Generate detailed reports on sales, inventory turnover, popular items, and customer demographics to make informed business decisions.
 
 User-Friendly Interface: Intuitive design and easy navigation make it simple for staff to learn and use the system effectively.
+
+## SCREENSHOTS
+
+![WhatsApp Image 2024-05-16 at 22 43 23_22871185](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/26b32a1c-787b-437b-92c5-287fd6164cc9)
+
+![WhatsApp Image 2024-05-16 at 22 44 26_434e3f7b](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/b4cc448b-d67b-4068-a716-4531400829bb)
+
+![WhatsApp Image 2024-05-16 at 22 45 19_9e46d3d6](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/31a399eb-256d-486a-9702-8e943ca10b5f)
+
+![WhatsApp Image 2024-05-16 at 22 45 52_1361f254](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/914dbad8-25bc-4df8-a7a1-b44270887eb8)
 
 ## Contributions Welcome
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
