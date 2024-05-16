@@ -28,8 +28,11 @@ User-Friendly Interface: Intuitive design and easy navigation make it simple for
 ## SCREENSHOTS
 
 ![WhatsApp Image 2024-05-16 at 22 43 23_22871185](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/26b32a1c-787b-437b-92c5-287fd6164cc9)
+
 ![WhatsApp Image 2024-05-16 at 22 44 26_434e3f7b](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/b4cc448b-d67b-4068-a716-4531400829bb)
+
 ![WhatsApp Image 2024-05-16 at 22 45 19_9e46d3d6](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/31a399eb-256d-486a-9702-8e943ca10b5f)
+
 ![WhatsApp Image 2024-05-16 at 22 45 52_1361f254](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/914dbad8-25bc-4df8-a7a1-b44270887eb8)
 
 ## Contributions Welcome
