@@ -46,6 +46,10 @@ Khushi Alaria(2310992122)
 Khushpreet Kaur(2310992123)
 
 Gurneet Kaur(2310992124)
+## Issues
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Restaurant-Management-System/issues)
+
+If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 
 
