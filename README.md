@@ -22,7 +22,7 @@ Insightful Reporting: Generate detailed reports on sales, inventory turnover, po
 
 User-Friendly Interface: Intuitive design and easy navigation make it simple for staff to learn and use the system effectively.
 
-## INSTALLETION
+## INSTALLATION
 To get started with the Cafe Management System, follow these steps:
 
 Visual Studio Code should be installed on your machine.
