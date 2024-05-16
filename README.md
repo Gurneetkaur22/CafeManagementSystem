@@ -52,6 +52,9 @@ Gurneet Kaur(2310992124)
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 
+This is <span style="color:red">red</span> text.
+This is <span style="color:blue">blue</span> text.
+This is <span style="color:green">green</span> text.
 
 
 
