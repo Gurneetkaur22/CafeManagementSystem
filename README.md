@@ -36,3 +36,11 @@ Khushpreet Kaur(231002123)
 
 Gurneet Kaur(231002124)
 
+Visuals
+
+![Screenshot (186)](https://github.com/khush-preet-2004/CafeManagementSystem/assets/156661182/edd5a3b0-3d3e-4962-ab67-bdf23e921232)
+
+
+
+
+
