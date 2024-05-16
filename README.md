@@ -47,7 +47,7 @@ Khushpreet Kaur(2310992123)
 
 Gurneet Kaur(2310992124)
 ## Issues
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository)](https://github.com/your-username/your-repository/issues)
+[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository)](https://github.com/khush-preet-2004/CafeManagementSystem)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
