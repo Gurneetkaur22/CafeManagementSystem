@@ -28,6 +28,12 @@ Insightful Reporting: Generate detailed reports on sales, inventory turnover, po
 
 User-Friendly Interface: Intuitive design and easy navigation make it simple for staff to learn and use the system effectively.
 
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+
+
 ## INSTALLATIONS
 To get started with the Cafe Management System, follow these steps:
 1. Clone this repository to your local machine:
