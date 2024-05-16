@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Management System - Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="menu-container">
+        <h1>Cafe Menu</h1>
+        <ul>
+            <li>
+                <h2>Espresso</h2>
+                <p>$3.00</p>
+                <button onclick="addToOrder('Espresso', 3.00)">Add to Order</button>
+            </li>
+            <li>
+                <h2>Cappuccino</h2>
+                <p>$4.00</p>
+                <button onclick="addToOrder('Cappuccino', 4.00)">Add to Order</button>
+            </li>
+            <li>
+                <h2>Latte</h2>
+                <p>$4.50</p>
+                <button onclick="addToOrder('Latte', 4.50)">Add to Order</button>
+            </li>
+        </ul>
+    </div>
+    <script>
+        function addToOrder(item, price) {
+            console.log(item + ' added to order at $' + price);
+            // Add item to order (implementation depends on backend)
+        }
+    </script>
+</body>
+</html>
