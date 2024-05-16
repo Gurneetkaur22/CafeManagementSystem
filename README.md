@@ -22,11 +22,10 @@ Insightful Reporting: Generate detailed reports on sales, inventory turnover, po
 
 User-Friendly Interface: Intuitive design and easy navigation make it simple for staff to learn and use the system effectively.
 
-## INSTALLATION
+## INSTALLATIONS
 To get started with the Cafe Management System, follow these steps:
-
-Visual Studio Code should be installed on your machine.
-MongoDB installed and running locally or accessible via a remote connection.
+1. Clone this repository to your local machine:
+https://github.com/khush-preet-2004/CafeManagementSystem
 
 ## CONTRIBUTORS
 
